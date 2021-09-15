@@ -1,0 +1,24 @@
+.card {
+    height: 100px;
+}
+
+.container {
+    border: 5px solid cornsilk
+}
+
+li {
+    display: flex
+}
+
+.article {
+    height: 50vh;
+    margin: 10px;
+}
+
+.form-control {
+    margin: 20px 40px;
+}
+
+.card-content {
+    margin: 10px 40px;
+}
